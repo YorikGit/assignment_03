@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardBoardTest", "Assembly-CSharp.csproj", "{09C66C41-84A8-B03A-9FA5-B57350BF4FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardBoardTest", "Assembly-CSharp-Editor.csproj", "{F29705DC-3CBC-7AE2-BBE8-33F5691A395C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C66C41-84A8-B03A-9FA5-B57350BF4FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C66C41-84A8-B03A-9FA5-B57350BF4FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C66C41-84A8-B03A-9FA5-B57350BF4FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C66C41-84A8-B03A-9FA5-B57350BF4FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29705DC-3CBC-7AE2-BBE8-33F5691A395C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29705DC-3CBC-7AE2-BBE8-33F5691A395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29705DC-3CBC-7AE2-BBE8-33F5691A395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29705DC-3CBC-7AE2-BBE8-33F5691A395C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
